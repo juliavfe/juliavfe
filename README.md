@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**juliavfe/juliavfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎓 Sou Júlia Ferreira,estudante de Ciência da Computação na CESAR School!**  
+-Sou do 1° periodo e estou explorando as diversas possibilidades que o universo da programação oferece.
+Um dos meus principais foco é Machine Learning e 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔧 Projetos**  
+- **CRUD em Python**: Um sistema básico para gerenciar dados de competições.    
+- **projeto 1,La Ursa Walk usando Arduino**: um sistema que registra sua caminhada passando por locais historicos do recife antigo
+
+---
+
+**💬Contato**  
+- **LinkedIn**: Julia Ferreira 
+- **E-mail**: jvf@cesar.school
+
+---
+
+**🛠️ Tecnologias**  
+- **Linguagens**: Python, JavaScript,HTML  
+- **Ferramentas**:Arduino, Git, VSCode  
+- **Soft skill**:Sempre em busca de aprender algo novo, seja uma linguagem, uma ferramenta ou um conceito 
+---
