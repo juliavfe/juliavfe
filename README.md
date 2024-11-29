@@ -1,7 +1,7 @@
 
 **🎓 Sou Júlia Ferreira,estudante de Ciência da Computação na CESAR School!**  
 -Sou do 1° periodo e estou explorando as diversas possibilidades que o universo da programação oferece.
-Um dos meus principais foco é Machine Learning e 
+Um dos meus principais foco é Machine Learning 
 
 ---
 
